@@ -1,0 +1,71 @@
+a {color:#77DDFF;text-decoration:none}
+a:visited {color:#77DDFF;text-decoration:none}
+a:active {color:#77DDFF;text-decoration:none}
+a:hover {text-decoration:underline}
+body 
+{
+	color:#3399FF;
+	background-color:000000;
+	margin-top:0;margin-left:0;
+	margin-bottom:0;
+	scrollbar-3dlight-color:#000000; 
+	scrollbar-arrow-color:#3399FF;
+	scrollbar-base-color:000000;
+	scrollbar-darkshadow-color:#000000;
+	scrollbar-face-color:#000000;
+	scrollbar-highlight-color:#0066FF;
+	scrollbar-shadow-color:#0066FF;
+}
+h1 {color:#00BB00; font-family:Arial Narrow;margin-top: 0; margin-bottom: 0}
+h2 {color:#00AA00; font-family:Arial Narrow;margin-top: 0; margin-bottom: 0}
+h3 {color:#009900; font-family:Arial Narrow;margin-top: 0; margin-bottom: 0}
+HR
+{
+	height: 1px;
+	border: 0px;
+	border-top: 1px solid #007700;
+}
+
+td
+{
+	border: solid #0053A6;
+	border-width: 1px;
+	vertical-align:top;
+}
+INPUT
+{
+	color:#3399FF;
+	border: solid #0065CA;
+	border-width: 1px;
+	background-color:black;
+}
+SELECT
+{
+	color:#3399FF;
+	border: solid #0065CA;
+	border-width: 1px;
+	background:#000044;
+}
+TEXTAREA
+{
+	color:#3399FF;
+	border: solid #0065CA;
+	border-width: 1px;
+	background:black;
+	scrollbar-3dlight-color:#000000; 
+	scrollbar-arrow-color:#3399FF;
+	scrollbar-base-color:000000;
+	scrollbar-darkshadow-color:#000000;
+	scrollbar-face-color:#000000;
+	scrollbar-highlight-color:#0066FF;
+	scrollbar-shadow-color:#0066FF;
+}
+.header
+{
+	background-color:#002953;
+	border-color: #004CA0;
+}
+.sectionheader
+{
+	background-color:#222222;
+}

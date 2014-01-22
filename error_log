@@ -1,0 +1,92 @@
+[30-Dec-2003 22:37:21] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 609
+[30-Dec-2003 22:37:21] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listbugs.php on line 9
+[30-Dec-2003 22:43:13] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 452
+[30-Dec-2003 22:43:28] PHP Fatal error:  Call to undefined function:  () in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 467
+[30-Dec-2003 22:53:14] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 771
+[30-Dec-2003 22:53:14] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listclaims.php on line 11
+[30-Dec-2003 22:53:34] PHP Parse error:  parse error, expecting `','' or `';'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 776
+[30-Dec-2003 22:53:34] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listclaims.php on line 11
+[30-Dec-2003 23:05:29] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 155
+[30-Dec-2003 23:33:22] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 41
+[30-Dec-2003 23:40:44] PHP Fatal error:  Call to undefined function:  echohtmlspecialchars() in /home/masakari/public_html/mechwar3d/bugtracker/updateprofile.php on line 100
+[30-Dec-2003 23:41:50] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/updateprofile.php on line 120
+[30-Dec-2003 23:43:43] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 349
+[30-Dec-2003 23:43:43] PHP Fatal error:  Cannot instantiate non-existent class:  user in /home/masakari/public_html/mechwar3d/bugtracker/updateprofile.php on line 5
+[30-Dec-2003 23:46:12] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 625
+[30-Dec-2003 23:46:12] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/addbug.php on line 76
+[30-Dec-2003 23:48:10] PHP Parse error:  parse error, expecting `','' or `';'' in /home/masakari/public_html/mechwar3d/bugtracker/addbug.php on line 131
+[30-Dec-2003 23:51:10] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 452
+[30-Dec-2003 23:51:12] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 452
+[31-Dec-2003 00:02:37] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/unclaimbug.php on line 65
+[31-Dec-2003 00:02:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:02:53] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:02:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:02:53] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:45] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:45] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:47] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:47] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:47] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:47] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:57] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:57] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:57] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:03:57] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:08:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:08:12] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:17:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:17:34] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:17:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:17:34] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/users/WMCoolmon.usr.php on line 3
+[31-Dec-2003 00:36:53] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 2
+[31-Dec-2003 00:37:10] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 2
+[31-Dec-2003 00:37:12] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 2
+[31-Dec-2003 00:40:15] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 2
+[31-Dec-2003 00:40:17] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 2
+[31-Dec-2003 00:41:49] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 3
+[31-Dec-2003 00:41:49] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/chmod.php on line 3
+[31-Dec-2003 00:54:53] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 623
+[31-Dec-2003 00:54:53] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listusers.php on line 9
+[31-Dec-2003 00:55:22] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 681
+[31-Dec-2003 00:55:22] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listusers.php on line 9
+[31-Dec-2003 00:55:39] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 696
+[31-Dec-2003 00:55:39] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listusers.php on line 9
+[31-Dec-2003 00:55:54] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 478
+[31-Dec-2003 00:55:54] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 478
+[31-Dec-2003 00:55:54] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 478
+[31-Dec-2003 00:55:54] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 478
+[31-Dec-2003 00:55:54] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 478
+[31-Dec-2003 01:00:18] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 68
+[31-Dec-2003 01:05:33] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugs/5.bug.php on line 13
+[31-Dec-2003 01:09:44] PHP Parse error:  parse error, expecting `')'' in /home/masakari/public_html/mechwar3d/bugtracker/bugs/5.bug.php on line 14
+[31-Dec-2003 01:13:07] PHP Parse error:  parse error, expecting `')'' in /home/masakari/public_html/mechwar3d/bugtracker/bugs/5.bug.php on line 14
+[31-Dec-2003 01:19:48] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 72
+[31-Dec-2003 01:20:43] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 72
+[31-Dec-2003 01:20:44] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 72
+[31-Dec-2003 01:21:08] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 70
+[31-Dec-2003 01:21:41] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 70
+[31-Dec-2003 01:21:42] PHP Warning:  Invalid argument supplied for foreach() in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 70
+[31-Dec-2003 01:48:41] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/addversion.php on line 16
+[31-Dec-2003 01:54:14] PHP Warning:  fopen(versions.ver.php): failed to open stream: Permission denied in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 97
+[31-Dec-2003 01:54:26] PHP Warning:  fopen(versions.ver.php): failed to open stream: Permission denied in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 97
+[31-Dec-2003 03:05:28] PHP Parse error:  parse error, expecting `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 304
+[31-Dec-2003 03:05:28] PHP Fatal error:  Cannot instantiate non-existent class:  user in /home/masakari/public_html/mechwar3d/bugtracker/addversion.php on line 7
+[31-Dec-2003 03:05:32] PHP Parse error:  parse error, expecting `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 304
+[31-Dec-2003 03:05:32] PHP Fatal error:  Cannot instantiate non-existent class:  user in /home/masakari/public_html/mechwar3d/bugtracker/addversion.php on line 7
+[31-Dec-2003 03:05:33] PHP Parse error:  parse error, expecting `T_VARIABLE' or `'$'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 304
+[31-Dec-2003 03:05:33] PHP Fatal error:  Cannot instantiate non-existent class:  user in /home/masakari/public_html/mechwar3d/bugtracker/addversion.php on line 7
+[31-Dec-2003 04:01:54] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 546
+[31-Dec-2003 04:28:19] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 56
+[31-Dec-2003 04:28:19] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/listbugs.php on line 10
+[31-Dec-2003 04:56:59] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 592
+[31-Dec-2003 04:56:59] PHP Fatal error:  Call to undefined function:  printheader() in /home/masakari/public_html/mechwar3d/bugtracker/addbug.php on line 74
+[02-Jan-2004 09:50:38] PHP Parse error:  parse error, expecting `','' or `';'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 138
+[02-Jan-2004 09:50:38] PHP Fatal error:  Call to undefined function:  switchuser() in /home/masakari/public_html/mechwar3d/bugtracker/login.php on line 4
+[02-Jan-2004 09:50:52] PHP Parse error:  parse error, expecting `','' or `';'' in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 138
+[02-Jan-2004 09:50:52] PHP Fatal error:  Call to undefined function:  switchuser() in /home/masakari/public_html/mechwar3d/bugtracker/login.php on line 4
+[10-Jan-2004 08:56:17] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/bugclasses.php on line 1089
+[10-Jan-2004 09:06:54] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/login.php on line 36
+[10-Jan-2004 23:19:07] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 120
+[10-Jan-2004 23:19:08] PHP Parse error:  parse error in /home/masakari/public_html/mechwar3d/bugtracker/viewbug.php on line 120

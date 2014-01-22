@@ -1,0 +1,23 @@
+.header TD, .noborders TD
+{
+	border: 0px;
+}
+
+.nofirstborders tr > td:first-child
+{
+	border: 0px;
+}
+body > table 
+{
+	border-collapse: collapse;
+	margin-top: 2px;
+}
+table
+{
+	width:100%;
+	empty-cells:hide;
+}
+td
+{
+	vertical-align:top;
+}

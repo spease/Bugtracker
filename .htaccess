@@ -1,0 +1,7 @@
+AuthUserFile /home/masakari/public_html/mechwar3d/bugtracker/.htpasswd
+AuthType Basic
+AuthName "BugBuster Bug Tracker"
+
+<LIMIT GET POST>
+require valid-user
+</LIMIT>
